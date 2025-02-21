@@ -4,7 +4,7 @@ import streamlit as st
 if "tasks" not in st.session_state:
     st.session_state.tasks = []
 
-st.title("✅📝 Simple To-Do List")
+st.title("🟦📝 Simple To-Do List")
 st.markdown("**Stay organized and get things done! 🚀**")
 
 # Input for adding a task
@@ -22,7 +22,7 @@ if st.session_state.tasks:
     st.subheader("📌 Your Tasks:")
     for i, task in enumerate(st.session_state.tasks):
         col1, col2 = st.columns([0.9, 0.1])
-        col1.write(f"🟢 {task}")  # Green dot for tasks
+        col1.write(f"🔵 {task}")  # Green dot for tasks
         if col2.button("❌", key=i):  # Delete button
             st.session_state.tasks.pop(i)
             st.experimental_rerun()  # Refresh UI after deletion
