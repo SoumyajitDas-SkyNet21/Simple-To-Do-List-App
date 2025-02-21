@@ -10,7 +10,7 @@ A minimal and interactive **To-Do List App** built using **Streamlit**. Easily a
 - 💡 **Auto-Clears Input Field** after adding a task.
 
 ## 📸 Screenshot
-![To-Do List Screenshot](https://github.com/SoumyajitDas-SkyNet21/Simple-To-Do-List-App/blob/main/screenshot.png)
+![To-Do List Screenshot](https://github.com/SoumyajitDas-SkyNet21/Simple-To-Do-List-App/blob/main/To-Do-List-Screenshot.png)
 ## 🛠️ Installation
 
 1. **Clone the Repository:**
