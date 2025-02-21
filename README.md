@@ -7,7 +7,6 @@ A minimal and interactive **To-Do List App** built using **Streamlit**. Easily a
 - ❌ **Remove Tasks** instantly with a delete button.
 - 📌 **Tasks List** displayed in an engaging UI with emojis.
 - 🎉 **Real-time Updates** using Streamlit's `session_state`.
-- 💡 **Auto-Clears Input Field** after adding a task.
 
 ## 📸 Screenshot
 ![To-Do List Screenshot](https://github.com/SoumyajitDas-SkyNet21/Simple-To-Do-List-App/blob/main/To-Do-List-Screenshot.png)
@@ -15,7 +14,7 @@ A minimal and interactive **To-Do List App** built using **Streamlit**. Easily a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/streamlit-todo-app.git
+   git clone https://github.com/SoumyajitDas-SkyNet21/Simple-To-Do-List-App.git
    cd streamlit-todo-app
    ```
 2. **Create a Virtual Environment (Optional but Recommended):**
