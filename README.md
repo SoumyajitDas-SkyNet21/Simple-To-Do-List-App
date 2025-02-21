@@ -15,7 +15,7 @@ A minimal and interactive **To-Do List App** built using **Streamlit**. Easily a
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/SoumyajitDas-SkyNet21/Simple-To-Do-List-App.git
-   cd streamlit-todo-app
+   cd Simple-To-Do-List-App
    ```
 2. **Create a Virtual Environment (Optional but Recommended):**
    ```bash
