@@ -10,8 +10,7 @@ A minimal and interactive **To-Do List App** built using **Streamlit**. Easily a
 - 💡 **Auto-Clears Input Field** after adding a task.
 
 ## 📸 Screenshot
-![To-Do List Screenshot](https://via.placeholder.com/800x400?text=To-Do+List+App+Screenshot)
-
+To-Do-List-Screenshot.png
 ## 🛠️ Installation
 
 1. **Clone the Repository:**
